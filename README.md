@@ -1,3 +1,9 @@
+Game of Thrones app!
+Use the Navigation Bar and the varioius interactive buttons to explore the universe of GoT!
+Explore the characters and houses of the GoT world provided by the api OfIceAndFireApi.
+Project was created using a combination of HTML, CSS, JavaScript, and the React framework.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
