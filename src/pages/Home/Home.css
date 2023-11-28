@@ -1,0 +1,13 @@
+.Home {
+  border: solid black;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.title{
+  position: relative;
+  height: auto;
+  color: rgb(17, 13, 15);
+}

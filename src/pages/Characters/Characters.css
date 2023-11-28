@@ -1,0 +1,32 @@
+.characterContainer{
+  max-width: 500px;
+  margin: 10px;
+  padding: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 2px 16px;
+  text-decoration: none;
+  border-radius: 20px;
+  background-color: rgb(248, 248, 242);
+}
+
+.characterContainer:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.buttons{
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+padding: 20px;
+border-radius: 15px;
+}
+
+.previous{  
+padding: 10px;
+border-radius: 15px;
+}
+
+.next{
+  padding: 10px;
+  border-radius: 15px;
+}
